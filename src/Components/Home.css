@@ -1,0 +1,38 @@
+body
+{
+    background: url('https://i.pinimg.com/originals/e8/d9/4e/e8d94e1e8b6b530ad315e9385290141b.jpg');
+    background-image: url('https://i.pinimg.com/originals/e8/d9/4e/e8d94e1e8b6b530ad315e9385290141b.jpg');
+    color: white;
+}
+
+
+.message
+{
+    background-color: #212d36;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 12px;
+    padding: 5px;
+    border-radius:10px;
+}
+
+.author
+{
+    color: rgb(214, 218, 2);
+    font-weight: bold;
+    margin: 10px;
+
+}
+
+.Hero
+{
+    margin-left: 300px;
+    background-color: #004a41;
+}
+
+.aHero
+{
+    color: crimson;
+
+}
