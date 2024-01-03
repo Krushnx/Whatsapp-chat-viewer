@@ -44,10 +44,10 @@ const Home = () => {
       <input type="file" onChange={handleFileChange} />
       <div>
         <h3>File Content:</h3>
-
+          <h3>Whatsapp Chat parser</h3>
         <div className="main">
 
-       {
+           {
            fileContent.map((i)=>{
                console.log("hi - > " , username);
                
